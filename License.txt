@@ -1,0 +1,35 @@
+Copyright (C) 2008-2010 Xaviorsoft Studios.
+By Victor Phoa Moentero Leonheart. All rights reserved.
+
+X-Font Library License
+
+-----------------------------------------------------------------------------------------
+
+Disclaimer
+
+This program and library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+The author of this program can not be made responsible for any, direct or indirect,
+damage caused by the program.
+
+
+License and costs
+
+X-Font Library is a Freeware for any use. However, You can make a donation 
+to support development of X-Font. Check on our website:
+
+  http://xaviorsoft.freebasic.net
+
+We accept any kind of donation that can imporove our work too, including old Notebook,
+PC, Cellphone, gadgets, custom input device, etc.
+As long the device is still in a good condition.
+You can nicely send to our working camp on:
+
+  Jl. Cendrawasih no 12 Ambon 97123 Maluku - Indonesia
+
+
+If you want to include X-Font Library on any distribution media,
+any Internet site then just do it. :)
+
+-----------------------------------------------------------------------------------------
+End of document
